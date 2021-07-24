@@ -42,7 +42,7 @@ Answer: Vim Editor is open source and allows developers to create and change any
 
 8. Write the steps to test your first designed app in the online editor on mobile.
 
-Answer: 
+Answer: Open the expo app->signup->download the expo app on your android phone->Click on Tap to play to check how it works->import the required files required for creating the app->create a class for your button->use Style attribute to add design to you game-Save It and Submit.
 
 9. What is the use of the render function in React Native Framework?
 
@@ -54,4 +54,4 @@ Answer: Whatever a function component returns is rendered as a React element. Re
 
 11. What are the various components in your first app that you designed?
 
-Answer: 
+Answer: React,Js,HTML,Component,Regular,Button,View All these components were combined together.
